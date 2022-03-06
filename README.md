@@ -1,6 +1,6 @@
-# HTML odev
+# HTML Ödev
 
-**HTML Odevleri icin olusturulan repo**
+**HTML ödevleri için oluşturulan repo**
 
-Ödev 1: index.html 
-Ödev 2: hobiler.html
+- Ödev 1: index.html 
+- Ödev 2: hobiler.html
